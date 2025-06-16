@@ -1,0 +1,7 @@
+mountpoints:
+  /:
+    url: https://content.da.live/prabhuram93/prabhu-store/
+    type: markup
+
+folders:
+  /products/: /products/default
